@@ -31,7 +31,7 @@ $insert_count = $db->exec($query);
 
 <!--To generate alert to user-->
 <script>
-alert("Hello World");
+alert("Your Task has been assigned");
 </script>
 
 </body> 
